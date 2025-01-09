@@ -1,5 +1,5 @@
 import { Camera, Award, Briefcase, Image } from 'lucide-react';
-import { Stat, WorkExperience, Project, Brand, GalleryImage } from '../types';
+import { Stat, WorkExperience, Project, Brand, /*GalleryImage*/ } from '../types';
 
 export const stats: Stat[] = [
   { number: '700,000+', label: 'Pictures', icon: Camera },

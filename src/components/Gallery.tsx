@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import React, { useState } from 'react';
 import { ImageIcon } from 'lucide-react';
 
-import Image from 'next/image';
+// import Image from 'next/image';
 
 const categories = [
   'FESTIVALS',
